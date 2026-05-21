@@ -10,7 +10,7 @@ This project focuses heavily on:
 * ensemble modeling,
 * and robust cross-validation methodology.
 
-The final stacking ensemble achieved 80.93% cross-validation accuracy with highly stable generalization across folds.
+The final stacking ensemble achieved 81.06% cross-validation accuracy with highly stable generalization across folds.
 
 ⸻
 
